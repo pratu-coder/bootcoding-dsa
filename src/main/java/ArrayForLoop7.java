@@ -1,7 +1,3 @@
-package com.bootcoding.java.basic;
-
-
-
 public class ArrayForLoop7 {
     public static void main(String[] args) {
 
