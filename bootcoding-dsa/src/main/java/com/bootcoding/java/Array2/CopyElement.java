@@ -1,4 +1,4 @@
-package com.bootcoding.java.Array2;
+package main.java.com.bootcoding.java.Array2;
 
 public class CopyElement {
     public static void main(String args[]) {
