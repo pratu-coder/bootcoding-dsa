@@ -1,4 +1,4 @@
-package com.bootcoding.java.basic;
+package main.java.com.bootcoding.java.basic;
 
 public class ArrayForLoop8 {
     public static void main(String[] args) {
